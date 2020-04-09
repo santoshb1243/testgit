@@ -6,6 +6,7 @@ public class cls1 {
 		// TODO Auto-generated method stub
 System.out.println("hi git");
 System.out.println("hi new");
+System.out.println("ters new");
 	}
 
 }
